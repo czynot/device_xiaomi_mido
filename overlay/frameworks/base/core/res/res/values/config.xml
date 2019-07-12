@@ -535,4 +535,7 @@
          that can be set by the user. -->
     <integer name="config_screenBrightnessDim">10</integer>
 
+    <!-- Enable NightLight -->
+    <bool name="config_nightDisplayAvailable">true</bool>
+
 </resources>
